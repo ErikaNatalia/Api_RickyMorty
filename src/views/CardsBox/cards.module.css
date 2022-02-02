@@ -1,0 +1,19 @@
+.contCard{
+    background-color: silver;
+    padding-top: 2vh;
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 20px;
+    column-gap: 15px;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    padding-top: 1vh;
+    width: 95%;
+    border-radius: 100%;
+}
+img:hover{
+    transform: rotate(-1deg);
+    filter: saturate(160%);
+}

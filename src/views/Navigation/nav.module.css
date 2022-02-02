@@ -1,0 +1,17 @@
+.nav{
+    height: 50vh;
+    background-image: url(/src/media/rym-bg.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.nav h1,
+.nav h2{
+    font-size: 3em;
+    text-shadow: 10px 20px 20px rgba(255, 255, 255, 0.5);
+    padding-left: 5%;
+    color: black;
+}
+
+.nav h1{
+    padding-top: 11vh;
+}
